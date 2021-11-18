@@ -11,7 +11,7 @@ export const educationData = [
         id: 2,
         institution: 'National Institute of Technology, Durgapur',
         course: 'Bachelor of Technology in Electronics and Communication Engineering',
-        coursework:'',
+        coursework:'Programming Fundamentals, Data Structures and Algorithms, Object Oriented Programming, Software Engineering',
         startYear: '2015',
         endYear: '2019'
     }
